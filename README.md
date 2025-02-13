@@ -71,7 +71,7 @@ This includes trendline and target line to help HR managers track progress towar
 
 ## DASHBOARD:
 
-[HR Analytics Dashboard](https://public.tableau.com/app/profile/kevalvpatel/viz/HRAnalyticsDashboard_17386489172260/HRAnalyticsDashboard)
+![HR Dashboard ](https://github.com/user-attachments/assets/75aab7de-311d-4de0-b504-76b3dde72cae)
 
 ### DASHBOARD OVERVIEW:
 
