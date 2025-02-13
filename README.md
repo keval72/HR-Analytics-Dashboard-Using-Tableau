@@ -31,11 +31,9 @@ This includes trendline and target line to help HR managers track progress towar
     
 ## STEPS OVERVIEW:
 
-1) Data subset collected from online.
-2) Understanding the Data.
-3) Loading Libraries.
-4) Data Cleaning & Finding Missing values.
-5) Data Visualization.
+1) Dataset collected from Kaggle.
+2) Data Cleaning & Finding Missing values.
+3) Data Visualization.
 
 ## DATA CLEANING:
 
@@ -69,11 +67,11 @@ This includes trendline and target line to help HR managers track progress towar
     
     6th Sheet: Education Field wise Attrition (Vertical Bar Graph)
     
-    7th Sheet: Education Field wise Attrition (Donut Plot)
+    7th Sheet: Attrition Rate by Gender for different Age Group (Donut Plot)
 
 ## DASHBOARD:
 
-![HR Dashboard ](https://public.tableau.com/app/profile/kevalvpatel/viz/HRAnalyticsDashboard_17386489172260/HRAnalyticsDashboard)
+[HR Analytics Dashboard](https://public.tableau.com/app/profile/kevalvpatel/viz/HRAnalyticsDashboard_17386489172260/HRAnalyticsDashboard)
 
 ### DASHBOARD OVERVIEW:
 
